@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)](https://github.com/eurdrea98/Spring_Weather)  [![MS SQL](https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=mssql&logoColor=white)](https://github.com/eurdrea98/Spring_Weather) [![Oracle DB](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)](https://github.com/eurdrea98/SpringMVC)
 <br><br><br>
 ## 💫 m e 
-[![Tech Blog](https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=blogger&logoColor=white)](https://eurdream98.tistory.com/)  [![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)]([https://your-notion-page-link](https://www.notion.so/c2002e568d234152bc48b16503079b51))
+[![Tech Blog](https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=blogger&logoColor=white)](https://eurdream98.tistory.com/)  [![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)]([[https://your-notion-page-link](https://www.notion.so/c2002e568d234152bc48b16503079b51)](https://www.notion.so/c2002e568d234152bc48b16503079b51))
 
 <br><br><br>
 
