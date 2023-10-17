@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=300&section=header&text=Eurdream98's%20🚀code&fontSize=50&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=300&section=header&text=KoDongHwan's%20🚀code&fontSize=50&animation=fadeIn)
 
 <div align="center">
 
@@ -33,4 +33,4 @@ Here are some ideas to get you started:
 [![Tech Blog](https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=blogger&logoColor=white)](https://eurdream98.tistory.com/) [![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/c2002e568d234152bc48b16503079b51)
 
 ### 🌄  t o d a y
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badges/fullPage?bg_color=30,92a8d1,f7cac9&title_color=fff&text_color=fff&icon_color=fff)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badges/fullPage?bg_color=30,92a8d1,f7cac9&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/gjbae1212/hit-counter)
